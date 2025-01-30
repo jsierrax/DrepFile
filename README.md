@@ -5,7 +5,7 @@ I am Juan Sierra, a non-public Decentralized Representative (DRep) dedicated to 
 Qualifications
 
 Business & Marketing Degree – Expertise in blockchain strategy & community engagement.
-Emurgo batch 53 Cardano Haskell Programming V2.0 – Functional programming for Cardano Smart Contracts.
+Emurgo batch 59 Cardano Haskell Programming V2.0 – Functional programming for Cardano Smart Contracts.
 Intersect Interim Constitutional Council Member (2024) – Shaping Cardano’s governance evolution.
 Cardano-Intersect Product Committee voting seat Member (2024) – Advancing the Vision and roadmap for 2025 and beyond with tooling for a decentralized decision-making ecosystem .
 Co-founder of Cardano Confederation & Host of Sala de Café – Driving education, adoption, and decentralized solutions.
