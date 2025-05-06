@@ -28,7 +28,14 @@
         },
         "paymentAddress": "CIP119:paymentAddress",
         "givenName": "CIP119:givenName",
-        "image": "CIP119:image",
+        "image": {
+          "@id": "CIP119:image",
+          "@context": {
+            "ImageObject": "https://schema.org/ImageObject",
+            "contentUrl": "CIP119:contentUrl",
+            "sha256": "CIP119:sha256"
+          }
+        },
         "objectives": "CIP119:objectives",
         "motivations": "CIP119:motivations",
         "qualifications": "CIP119:qualifications",
@@ -55,21 +62,11 @@
   "body": {
     "doNotList": true,
     "givenName": "JuanTheOne",
-    "motivations": "Motivations\n\nMy motivation as a DRep is to strengthen Cardano’s governance and contribute to solving humanity’s wicked challenges through transparent, participatory, and decentralized decision-making. I aim to bridge information gaps, foster community engagement, and advocate for a human-first, values-driven ecosystem. By refining governance tools, supporting Sociocracy 3.0, and driving real-world adoption, I strive to make Cardano more inclusive, efficient, and mission-aligned.\n",
-    "objectives": "Objectives\nMy objective as a DRep is to champion a human-first mindset and strengthen Cardano governance through transparent, inclusive, and participatory decision-making. I aim to bridge information gaps, foster community education, and support sociocratic governance models. By refining governance tools, promoting real-world adoption, and ensuring human-centered, values-driven governance, I strive to make Cardano efficient, sustainable, and mission-aligned.\n",
-    "paymentAddress": "addr1qytk77mghcs2xgmzknsc2pnshf7rg088skv6vw0v7xmd2y49xza500apj3apv4hrcg4s9y0p20z69396p505tc307hjqunvykc",
-    "qualifications": "A human becoming! Rooted in a legacy of service and innovation, I bring a business and marketing background combined with technical expertise in blockchain. I completed Emurgo’s Haskell Programming V2.0 course in 2021, specializing in functional programming to write Cardano smart contracts. Since 2019, I’ve supported initiatives like Catalyst, GimbaLabs, and ODIN, working to close Web 3 access gaps for Spanish-speaking and underserved communities. As host of Sala de Café, I foster global blockchain discussions to drive inclusivity and adoption.\n\nAs cofounder of Cardano Confederation, I co-lead ethical, decentralized solutions for underdeveloped regions, creating opportunities and leveling the playing field. Appointed to the Intersect Interim Constitutional Council and elected to the Cardano-Intersect Product Committee in 2024, I help shape governance and adoption strategies. With a human-first approach, I leverage Web 3 to empower communities and solve real-world challenges.\n",
-    "references": [
-      {
-        "@type": "Link",
-        "label": "Twitter",
-        "uri": "https://x.com/home?lang=en"
-      },
-      {
-        "@type": "Link",
-        "label": "Linked In",
-        "uri": "https://www.linkedin.com/in/sierrajuan/"
-      }
-    ]
+    "image": {
+      "@type": "ImageObject",
+      "contentUrl": "",
+      "sha256": "5f09340c3a25decc291c653eee14df5f40a2b038a48d2179473775b4fdf5a05e"
+    },
+    "paymentAddress": "addr1qyc0wv8myc9w69ep4elv8446qq6sn0ydzfwah7famagultzxzfz3ff22segxgw2z2qcvlhff65pjrx9a40n0wtw0xq2qwlm3ym"
   }
 }
