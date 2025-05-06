@@ -58,6 +58,7 @@
       }
     }
   },
+  "authors": [],
   "hashAlgorithm": "blake2b-256",
   "body": {
     "doNotList": true,
@@ -65,8 +66,7 @@
     "image": {
       "@type": "ImageObject",
       "contentUrl": "",
-      "sha256": "5f09340c3a25decc291c653eee14df5f40a2b038a48d2179473775b4fdf5a05e"
-    },
-    "paymentAddress": "addr1qyc0wv8myc9w69ep4elv8446qq6sn0ydzfwah7famagultzxzfz3ff22segxgw2z2qcvlhff65pjrx9a40n0wtw0xq2qwlm3ym"
+      "sha256": "c680de0dd6580e8efe2791e56c46a9cf78235155a469a781cea2f208c0e6e0ee"
+    }
   }
 }
